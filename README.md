@@ -6,7 +6,7 @@ Most of my time goes into Python, machine learning, cybersecurity, and backend d
 
 ### What I'm working on
 
-- 🔐 **[Artemis](https://github.com/rajnil9/PhishX)** — A project exploring machine learning for detecting phishing and other online threats.
+- 🔐 **[Artemis](https://github.com/Sayantan176/Artemis)** — A project exploring machine learning for detecting phishing and other online threats.
 - ⚡ **[BharatPower](https://github.com/Sayantan176/bharatpower)** — Exploring India's power sector through data, APIs, and visualizations.
 - 🛠️ Other side projects, experiments, and the occasional attempt to build something I've wanted to use myself.
 
