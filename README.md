@@ -16,6 +16,10 @@ Python · Java · C · Git · VS Code
 
 Currently exploring machine learning, backend development, and computer networks in more depth.
 
+### Agentic Tools
+
+AntiGravity · Zed · Goose
+
 ### Outside of projects
 
 I'm also working on my DSA skills, learning more about how computers work under the hood, and trying to write better code as I go.
