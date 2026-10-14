@@ -23,3 +23,8 @@ I'm also working on my DSA skills, learning more about how computers work under 
 I don't know everything yet, but there's always something new to learn and build.
 
 Feel free to look around my repositories!
+
+
+<p align="center">
+  <img src="./wbb.gif" width="200" alt="Sleepy We Bare Bears GIF">
+</p>
